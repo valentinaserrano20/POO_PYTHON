@@ -6,7 +6,7 @@ class Animal:
     self.tipo=tipo
     self.peso=peso
 
-#aqui creamos el objeto "objeto" el cual lo instanciamos a la clase principal que es animal.
+#aqui creamos el objeto "objeto" el cual lo instanciamos a la clase principal que es animal, la instancia es el proceso de crear el objeto, aquis e referencia la clase y se da como resultado el objeto mismo.
 objeto=Animal("perro","30kg")
 
 #ahora imprimimos el resultado y como ese resultado esta en el objeto, se refererncia a este primero y luego el atributo del mismo.
